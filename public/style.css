@@ -1,0 +1,13 @@
+html {
+  background-color: rgb(240, 241, 212);
+}
+tr {
+  background-color: rgb(184, 184, 184);
+}
+
+td {
+  background-color: rgb(231, 231, 231) !important;
+}
+h1 {
+  text-align: center;
+}
